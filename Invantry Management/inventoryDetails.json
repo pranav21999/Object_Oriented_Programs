@@ -1,0 +1,24 @@
+{
+  "inventory" : [
+  {
+  "name" : "basmati",
+  "weight" : 30
+  "pricePerKg" : 85.76
+  "type" : "rice"
+  },
+  
+  {
+  "name" : "dal",
+  "weight" : 75.65
+  "pricePerKg" : 65.43
+  "type" : "Pulses"
+  },
+  
+  {
+  "name" : "ChakkiFresh",
+  "weight" : 85.00
+  "pricePerKg" : 32.36
+  "type" : "Pulses"
+  }
+  ]
+}
